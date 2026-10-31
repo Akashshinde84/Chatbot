@@ -1,0 +1,228 @@
+[
+    {
+        "tag": "morning_routine",
+        "patterns": [
+            "Good morning",
+            "What should I do in the morning?",
+            "How can I start my day?",
+            "Suggest a morning routine",
+            "How to wake up early?"
+        ],
+        "responses": [
+            "Good morning! Start your day with a positive mindset.",
+            "Wake up early, drink water, exercise, and plan your day.",
+            "A good morning routine can make your entire day productive."
+        ]
+    },
+    {
+        "tag": "food",
+        "patterns": [
+            "What should I eat today?",
+            "What can I cook?",
+            "Suggest something for lunch",
+            "What should I make for dinner?",
+            "I am hungry"
+        ],
+        "responses": [
+            "How about making something delicious and healthy?",
+            "You can try rice, vegetables, and dal for lunch.",
+            "A homemade meal is always a great option."
+        ]
+    },
+    {
+        "tag": "sleep",
+        "patterns": [
+            "I cannot sleep",
+            "How can I sleep early?",
+            "Why am I feeling sleepy?",
+            "How many hours should I sleep?",
+            "Give me tips for better sleep"
+        ],
+        "responses": [
+            "Try maintaining a regular sleeping schedule.",
+            "Avoid screens before bedtime and keep your room comfortable.",
+            "Most adults need around 7 to 9 hours of sleep."
+        ]
+    },
+    {
+        "tag": "shopping",
+        "patterns": [
+            "I want to go shopping",
+            "What should I buy?",
+            "How can I save money while shopping?",
+            "Suggest shopping tips",
+            "Where can I buy clothes?"
+        ],
+        "responses": [
+            "Make a shopping list before going shopping.",
+            "Compare prices and check product quality before buying.",
+            "Set a budget to avoid unnecessary spending."
+        ]
+    },
+    {
+        "tag": "travel",
+        "patterns": [
+            "I want to travel",
+            "Suggest a place to visit",
+            "What should I pack for a trip?",
+            "How can I plan a vacation?",
+            "I am planning a trip"
+        ],
+        "responses": [
+            "That sounds exciting! Choose your destination and travel dates first.",
+            "Remember to pack clothes, toiletries, chargers, and important documents.",
+            "Plan your budget, transportation, and accommodation before travelling."
+        ]
+    },
+    {
+        "tag": "weather",
+        "patterns": [
+            "Is it going to rain?",
+            "How is the weather?",
+            "Is it hot outside?",
+            "Should I carry an umbrella?",
+            "What should I wear today?"
+        ],
+        "responses": [
+            "I cannot check live weather conditions yet.",
+            "Check your local weather forecast before going outside.",
+            "Carry an umbrella if rain is expected."
+        ]
+    },
+    {
+        "tag": "exercise",
+        "patterns": [
+            "How can I stay fit?",
+            "Suggest some exercises",
+            "What exercise should I do today?",
+            "How can I lose weight?",
+            "Is walking good for health?"
+        ],
+        "responses": [
+            "Walking, cycling, and yoga are good ways to stay active.",
+            "Try to include regular physical activity in your daily routine.",
+            "Start slowly and gradually increase your exercise duration."
+        ]
+    },
+    {
+        "tag": "hobbies",
+        "patterns": [
+            "What should I do in free time?",
+            "Suggest some hobbies",
+            "I am getting bored",
+            "How can I spend my free time?",
+            "What are some interesting activities?"
+        ],
+        "responses": [
+            "You can try reading, drawing, photography, or gardening.",
+            "Learn something new or explore a hobby you enjoy.",
+            "Try listening to music or playing a game."
+        ]
+    },
+    {
+        "tag": "family",
+        "patterns": [
+            "How can I spend time with family?",
+            "What should I do with my family?",
+            "Suggest family activities",
+            "How can I make my parents happy?",
+            "I miss my family"
+        ],
+        "responses": [
+            "Spend quality time together and share your daily experiences.",
+            "You can plan a family dinner or a weekend outing.",
+            "Small acts of kindness can make your family happy."
+        ]
+    },
+    {
+        "tag": "friends",
+        "patterns": [
+            "How can I make new friends?",
+            "I am feeling lonely",
+            "What should I talk about with friends?",
+            "How can I maintain friendships?",
+            "I want to meet my friends"
+        ],
+        "responses": [
+            "Be friendly, genuine, and open to meeting new people.",
+            "Try starting a conversation about common interests.",
+            "Stay connected with your friends and make time for them."
+        ]
+    },
+    {
+        "tag": "money",
+        "patterns": [
+            "How can I save money?",
+            "How can I manage my expenses?",
+            "Give me budgeting tips",
+            "How should I spend my salary?",
+            "How can I avoid unnecessary spending?"
+        ],
+        "responses": [
+            "Track your daily expenses and set a monthly budget.",
+            "Try saving a fixed amount whenever you receive money.",
+            "Prioritize your needs before spending on wants."
+        ]
+    },
+    {
+        "tag": "transport",
+        "patterns": [
+            "How should I go to college?",
+            "What is the best way to travel?",
+            "I missed my bus",
+            "How can I save time while travelling?",
+            "Should I take a bus or train?"
+        ],
+        "responses": [
+            "Choose transportation based on distance, cost, and convenience.",
+            "Check the available bus or train schedules before leaving.",
+            "Try leaving early to avoid unexpected delays."
+        ]
+    },
+    {
+        "tag": "cleaning",
+        "patterns": [
+            "How can I clean my room?",
+            "My room is very messy",
+            "Give me cleaning tips",
+            "How often should I clean my house?",
+            "How can I organize my room?"
+        ],
+        "responses": [
+            "Start by organizing your clothes, books, and other belongings.",
+            "Clean one section at a time to make the task easier.",
+            "Spend 10 to 15 minutes daily keeping your room organized."
+        ]
+    },
+    {
+        "tag": "mood",
+        "patterns": [
+            "I am feeling sad",
+            "I am very happy today",
+            "I am stressed",
+            "I am feeling bored",
+            "I had a bad day"
+        ],
+        "responses": [
+            "I'm sorry you're having a difficult day. Want to talk about it?",
+            "That's wonderful! I hope your happiness continues.",
+            "Take a deep breath and give yourself some time to relax.",
+            "Sometimes talking to someone you trust can help."
+        ]
+    },
+    {
+        "tag": "weekend",
+        "patterns": [
+            "What should I do this weekend?",
+            "Any plans for Sunday?",
+            "Suggest weekend activities",
+            "How can I enjoy my weekend?",
+            "I have two days off"
+        ],
+        "responses": [
+            "You can watch a movie, visit a new place, or meet friends.",
+            "Try balancing relaxation with activities you enjoy.",
+            "A weekend trip or a fun outdoor activity sounds great!"
+        ]
+    }
+]
